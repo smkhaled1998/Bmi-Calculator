@@ -8,6 +8,7 @@ import 'modules/bmi_calculator.dart';
 import 'modules/bmi_cubit.dart';
 
 void main() {
+  ///test
   Bloc.observer = MyBlocObserver();
   runApp(const MyApp());
 }
